@@ -14,4 +14,4 @@ Eu utilizei HTML, CSS e Javascript puros para desenvolver a minha solução.
 Ela consiste em uma interface para cadastro de clientes e produtos com dois botões, os botões abrem um modal com um formulário de cadastro para cada um.
 Os dados desses formulários são estruturados e guardados no localstorage.
 
-### Link para a solução: [Desafio 2#](google.com.br)
+### Link para a solução: [Desafio 2#](https://desafio2-hiring-coders.netlify.app/)
